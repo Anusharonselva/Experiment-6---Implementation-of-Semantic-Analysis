@@ -74,3 +74,4 @@ for sentence in sentences:
 ![Screenshot (381)](https://github.com/Anusharonselva/Experiment-6---Implementation-of-Semantic-Analysis/assets/119405600/a609e1fd-fdbb-4df3-b5cb-d051b9a680fa)
 
 ## Result
+Thus, we have successfully implemented a program for Natural Language Processing.
